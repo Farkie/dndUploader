@@ -65,7 +65,7 @@
 	</div>
 
 <div id="root-container">
-	<div id="header"><a href="/"><img width="380px" src="static/header-0.png"></img></a></div>
+	<div id="header"><a href="/"><img width="380px" src="/static/header-0.png"></img></a></div>
 		
 		<div id="browser-warning">
 			It seems your browser doesn't meet the minimum requirements. So you can't use this demo site. 
