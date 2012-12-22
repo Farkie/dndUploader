@@ -325,7 +325,7 @@ function updateResumedItems(file, progressElement, pauseButton, downloadLink) {
 			//show download link
 			var serverFileId       = fileParts[0];
 			downloadLink.innerHTML = 'Download link';
-			downloadLink.href 	   = 'http://dnduploader.filkor.org/d/?id=' + serverFileId;			
+			downloadLink.href 	   = '/d/?id=' + serverFileId;		
 			
 		} else {
 			//else if not uploaded the whole then get the current package number, and return the percent		
